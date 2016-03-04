@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/controllers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/accountAllocate.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/accountingMes.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/accountingOver.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/baseAttention.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/basePhoneShow.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/baseSetShopTpl.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/baseSetShopType.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/extensionActivity.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/extensionCoupon.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/extensionRecommendHome.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/extensionSearch.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/goodsAboutDel.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/goodsAdd.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/home.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/orderChangeMes.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/orderDeliver.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpls/orderFind.html" charset="UTF-8" />
+  </component>
+</project>
