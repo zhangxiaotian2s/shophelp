@@ -1,4 +1,4 @@
-var shopHelp = angular.module('shopHelp', ['ui.router', 'ngAnimate', 'shopAppCtrls', 'shopAppDirective'])
+var shopHelp = angular.module('shopHelp', ['ui.router', 'ngAnimate', 'shopAppCtrls', 'shopAppDirective','shopAppService'])
 
 shopHelp.config(function($stateProvider, $urlRouterProvider) {
 	$urlRouterProvider.otherwise('/index');
@@ -11,6 +11,7 @@ shopHelp.config(function($stateProvider, $urlRouterProvider) {
 				},
 				'aside@index': {
 					templateUrl: 'tpls/aside.html',
+					controller:'asideCtrl'
 				},
 				'main@index': {
 					templateUrl: 'tpls/agreement.html'
